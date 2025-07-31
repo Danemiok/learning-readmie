@@ -52,3 +52,14 @@ order List
 |id |name | Age |
 |----|-----|-----|
 | 01 | Miok | 20 |
+
+### Code
+```python
+arry = [1,2,3,4]
+for i in range(len(arry)):
+    print(i)
+```
+
+```html
+<h1>Heading</h1>
+```
