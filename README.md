@@ -47,3 +47,8 @@ order List
 
 ### Block quote
 > Hello word
+
+### Table
+|id |name | Age |
+|----|-----|-----|
+| 01 | Miok | 20 |
