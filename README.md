@@ -23,3 +23,27 @@ my project is fous on
 
 ### Link
 CSS Framework [boxshadow](https://getcssscan.com/css-box-shadow-examples)
+
+
+### List 
+Unoder List
+- one
+- two
+- three
+    - other sub list
+    -none
+---
+order List
+1. One
+2. Two
+3. Three
+
+### Text style
+**Bbold text**
+
+*Hello God*
+
+~~Delete text~~
+
+### Block quote
+> Hello word
